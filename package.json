@@ -3,6 +3,7 @@
 	"description": "a project to improve npm knoledge",
 	"keywords": ["study", "package", "npm", "freecodecamp"],
 	"author": "Renan Borges",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
